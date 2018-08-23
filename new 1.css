@@ -1,0 +1,11 @@
+.stl
+{text-decoration: underline;
+}
+.menu_item {
+display:inline-block;
+margin-left:0.3 em;
+}
+header>img{
+max-height:95px;
+float:left;
+}

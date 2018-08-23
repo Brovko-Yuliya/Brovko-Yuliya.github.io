@@ -1,0 +1,38 @@
+.stl
+{text-decoration: underline;
+}
+.menu_item {
+display:inline-block;
+margin-left:0.8 em;
+text-transform:uppercase;
+border: 2px groove  brown;
+padding: 5px 0px 6px 9px;
+margin: 10px;
+}
+header>img{
+max-height:95px;
+float:left;
+}
+a + nav, .stl {
+	background-color : yellow;
+}
+h1:hover{
+	color: #f00;
+}
+.menu_item:first-child{
+	font-style: italic;
+}
+li[class="item"] {
+	text-align: center;
+	letter-spacing: .1em;
+	FONT-SIZE:2EM;
+	FONT-FAMILY:MONOSPACE;
+	font-weight:600;
+	}
+	.social a{
+		text-decoration: none;
+			}
+	h1{
+		color: orange;
+		text-shadow: 1px 1px 1px black;
+	}
